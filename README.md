@@ -72,7 +72,7 @@ void main() {
   );
   userInfo.addEducation(
     logo: 'assets/images/illinois-tech-logo.png',
-    name: 'Illinois Tech',
+    name: 'RAndom name',
     gpa: 3.8
   );
   // etc.
