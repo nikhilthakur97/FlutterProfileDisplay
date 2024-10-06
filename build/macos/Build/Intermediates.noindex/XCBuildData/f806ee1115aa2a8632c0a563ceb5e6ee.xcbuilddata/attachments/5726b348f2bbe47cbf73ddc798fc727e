@@ -1,0 +1,48 @@
+{
+  "" : {
+    "diagnostics" : "/Users/nikhil/Desktop/MAD/mp2-nikhilthakur97/build/macos/Build/Intermediates.noindex/Runner.build/Debug/Runner.build/Objects-normal/arm64/Runner-master.dia",
+    "emit-module-dependencies" : "/Users/nikhil/Desktop/MAD/mp2-nikhilthakur97/build/macos/Build/Intermediates.noindex/Runner.build/Debug/Runner.build/Objects-normal/arm64/Runner-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/nikhil/Desktop/MAD/mp2-nikhilthakur97/build/macos/Build/Intermediates.noindex/Runner.build/Debug/Runner.build/Objects-normal/arm64/Runner-master-emit-module.dia",
+    "swift-dependencies" : "/Users/nikhil/Desktop/MAD/mp2-nikhilthakur97/build/macos/Build/Intermediates.noindex/Runner.build/Debug/Runner.build/Objects-normal/arm64/Runner-master.swiftdeps"
+  },
+  "/Users/nikhil/Desktop/MAD/mp2-nikhilthakur97/build/macos/Build/Intermediates.noindex/Runner.build/Debug/Runner.build/DerivedSources/GeneratedAssetSymbols.swift" : {
+    "const-values" : "/Users/nikhil/Desktop/MAD/mp2-nikhilthakur97/build/macos/Build/Intermediates.noindex/Runner.build/Debug/Runner.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftconstvalues",
+    "dependencies" : "/Users/nikhil/Desktop/MAD/mp2-nikhilthakur97/build/macos/Build/Intermediates.noindex/Runner.build/Debug/Runner.build/Objects-normal/arm64/GeneratedAssetSymbols.d",
+    "diagnostics" : "/Users/nikhil/Desktop/MAD/mp2-nikhilthakur97/build/macos/Build/Intermediates.noindex/Runner.build/Debug/Runner.build/Objects-normal/arm64/GeneratedAssetSymbols.dia",
+    "index-unit-output-path" : "/Runner.build/Debug/Runner.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "llvm-bc" : "/Users/nikhil/Desktop/MAD/mp2-nikhilthakur97/build/macos/Build/Intermediates.noindex/Runner.build/Debug/Runner.build/Objects-normal/arm64/GeneratedAssetSymbols.bc",
+    "object" : "/Users/nikhil/Desktop/MAD/mp2-nikhilthakur97/build/macos/Build/Intermediates.noindex/Runner.build/Debug/Runner.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "swift-dependencies" : "/Users/nikhil/Desktop/MAD/mp2-nikhilthakur97/build/macos/Build/Intermediates.noindex/Runner.build/Debug/Runner.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftdeps",
+    "swiftmodule" : "/Users/nikhil/Desktop/MAD/mp2-nikhilthakur97/build/macos/Build/Intermediates.noindex/Runner.build/Debug/Runner.build/Objects-normal/arm64/GeneratedAssetSymbols~partial.swiftmodule"
+  },
+  "/Users/nikhil/Desktop/MAD/mp2-nikhilthakur97/macos/Flutter/GeneratedPluginRegistrant.swift" : {
+    "const-values" : "/Users/nikhil/Desktop/MAD/mp2-nikhilthakur97/build/macos/Build/Intermediates.noindex/Runner.build/Debug/Runner.build/Objects-normal/arm64/GeneratedPluginRegistrant.swiftconstvalues",
+    "dependencies" : "/Users/nikhil/Desktop/MAD/mp2-nikhilthakur97/build/macos/Build/Intermediates.noindex/Runner.build/Debug/Runner.build/Objects-normal/arm64/GeneratedPluginRegistrant.d",
+    "diagnostics" : "/Users/nikhil/Desktop/MAD/mp2-nikhilthakur97/build/macos/Build/Intermediates.noindex/Runner.build/Debug/Runner.build/Objects-normal/arm64/GeneratedPluginRegistrant.dia",
+    "index-unit-output-path" : "/Runner.build/Debug/Runner.build/Objects-normal/arm64/GeneratedPluginRegistrant.o",
+    "llvm-bc" : "/Users/nikhil/Desktop/MAD/mp2-nikhilthakur97/build/macos/Build/Intermediates.noindex/Runner.build/Debug/Runner.build/Objects-normal/arm64/GeneratedPluginRegistrant.bc",
+    "object" : "/Users/nikhil/Desktop/MAD/mp2-nikhilthakur97/build/macos/Build/Intermediates.noindex/Runner.build/Debug/Runner.build/Objects-normal/arm64/GeneratedPluginRegistrant.o",
+    "swift-dependencies" : "/Users/nikhil/Desktop/MAD/mp2-nikhilthakur97/build/macos/Build/Intermediates.noindex/Runner.build/Debug/Runner.build/Objects-normal/arm64/GeneratedPluginRegistrant.swiftdeps",
+    "swiftmodule" : "/Users/nikhil/Desktop/MAD/mp2-nikhilthakur97/build/macos/Build/Intermediates.noindex/Runner.build/Debug/Runner.build/Objects-normal/arm64/GeneratedPluginRegistrant~partial.swiftmodule"
+  },
+  "/Users/nikhil/Desktop/MAD/mp2-nikhilthakur97/macos/Runner/AppDelegate.swift" : {
+    "const-values" : "/Users/nikhil/Desktop/MAD/mp2-nikhilthakur97/build/macos/Build/Intermediates.noindex/Runner.build/Debug/Runner.build/Objects-normal/arm64/AppDelegate.swiftconstvalues",
+    "dependencies" : "/Users/nikhil/Desktop/MAD/mp2-nikhilthakur97/build/macos/Build/Intermediates.noindex/Runner.build/Debug/Runner.build/Objects-normal/arm64/AppDelegate.d",
+    "diagnostics" : "/Users/nikhil/Desktop/MAD/mp2-nikhilthakur97/build/macos/Build/Intermediates.noindex/Runner.build/Debug/Runner.build/Objects-normal/arm64/AppDelegate.dia",
+    "index-unit-output-path" : "/Runner.build/Debug/Runner.build/Objects-normal/arm64/AppDelegate.o",
+    "llvm-bc" : "/Users/nikhil/Desktop/MAD/mp2-nikhilthakur97/build/macos/Build/Intermediates.noindex/Runner.build/Debug/Runner.build/Objects-normal/arm64/AppDelegate.bc",
+    "object" : "/Users/nikhil/Desktop/MAD/mp2-nikhilthakur97/build/macos/Build/Intermediates.noindex/Runner.build/Debug/Runner.build/Objects-normal/arm64/AppDelegate.o",
+    "swift-dependencies" : "/Users/nikhil/Desktop/MAD/mp2-nikhilthakur97/build/macos/Build/Intermediates.noindex/Runner.build/Debug/Runner.build/Objects-normal/arm64/AppDelegate.swiftdeps",
+    "swiftmodule" : "/Users/nikhil/Desktop/MAD/mp2-nikhilthakur97/build/macos/Build/Intermediates.noindex/Runner.build/Debug/Runner.build/Objects-normal/arm64/AppDelegate~partial.swiftmodule"
+  },
+  "/Users/nikhil/Desktop/MAD/mp2-nikhilthakur97/macos/Runner/MainFlutterWindow.swift" : {
+    "const-values" : "/Users/nikhil/Desktop/MAD/mp2-nikhilthakur97/build/macos/Build/Intermediates.noindex/Runner.build/Debug/Runner.build/Objects-normal/arm64/MainFlutterWindow.swiftconstvalues",
+    "dependencies" : "/Users/nikhil/Desktop/MAD/mp2-nikhilthakur97/build/macos/Build/Intermediates.noindex/Runner.build/Debug/Runner.build/Objects-normal/arm64/MainFlutterWindow.d",
+    "diagnostics" : "/Users/nikhil/Desktop/MAD/mp2-nikhilthakur97/build/macos/Build/Intermediates.noindex/Runner.build/Debug/Runner.build/Objects-normal/arm64/MainFlutterWindow.dia",
+    "index-unit-output-path" : "/Runner.build/Debug/Runner.build/Objects-normal/arm64/MainFlutterWindow.o",
+    "llvm-bc" : "/Users/nikhil/Desktop/MAD/mp2-nikhilthakur97/build/macos/Build/Intermediates.noindex/Runner.build/Debug/Runner.build/Objects-normal/arm64/MainFlutterWindow.bc",
+    "object" : "/Users/nikhil/Desktop/MAD/mp2-nikhilthakur97/build/macos/Build/Intermediates.noindex/Runner.build/Debug/Runner.build/Objects-normal/arm64/MainFlutterWindow.o",
+    "swift-dependencies" : "/Users/nikhil/Desktop/MAD/mp2-nikhilthakur97/build/macos/Build/Intermediates.noindex/Runner.build/Debug/Runner.build/Objects-normal/arm64/MainFlutterWindow.swiftdeps",
+    "swiftmodule" : "/Users/nikhil/Desktop/MAD/mp2-nikhilthakur97/build/macos/Build/Intermediates.noindex/Runner.build/Debug/Runner.build/Objects-normal/arm64/MainFlutterWindow~partial.swiftmodule"
+  }
+}
