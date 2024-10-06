@@ -116,8 +116,6 @@ As the page is static, functional testing was unnecessary. Evaluation was conduc
 
 ## 5. Hints / Tips
 
-Refer to the "Layout" section and the "Building Layouts" tutorial for insights into using various layout widgets.
-
 To include images, place them in the assets/images directory of the project and ensure they are committed using Git. Displaying them involves constructing Image widgets with appropriate paths:
 
 See the Adding assets and images page for details.
